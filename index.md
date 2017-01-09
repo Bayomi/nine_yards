@@ -3,13 +3,11 @@
 
 ### Description
 
-A self-organizing map (SOM) or self-organising feature map (SOFM) is a type of artificial neural network (ANN) that is trained using unsupervised learning to produce a low-dimensional (typically two-dimensional), discretized representation of the input space of the training samples for the dimensionality reduction. 
-
-This project is a combination of Kohonen Map and Feed Forward Neural Network (own implementation of both algorithms) to predict the classic MNIST numerical problem.
+Nine Yards was a social enterprise developed by Roshni Mehta that employs female acid attack survivors. I developed the shopping inventory cart infrastructure as a social-academic project, using PHP/SQL. The website created by our team is currently offline.
 
 ### Links
 
-[Github code](https://github.com/Bayomi/kohonen_map/)
+[Github code](https://github.com/Bayomi/nina_yards/)
 
 ### Contact
 
